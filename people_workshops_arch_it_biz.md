@@ -12,6 +12,9 @@
 
 ## Topics:
 
+# DDD
+- [Person, activity](link)
+
 # BDD
 - [Dan North, Introducing BDD]([https://link-url-here.org](https://dannorth.net/introducing-bdd/))
 - [John Ferguson Smart, BDD in Action](https://www.youtube.com/watch?v=hdBxLZ8f82Y)
