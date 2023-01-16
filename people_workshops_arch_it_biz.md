@@ -16,7 +16,7 @@
 - [Person, activity](link)
 
 # BDD
-- [Dan North, Introducing BDD]([https://link-url-here.org](https://dannorth.net/introducing-bdd/))
+- [Dan North, Introducing BDD](https://link-url-here.org](https://dannorth.net/introducing-bdd/)
 - [John Ferguson Smart, BDD in Action](https://www.youtube.com/watch?v=hdBxLZ8f82Y)
 - [Michał Michaluk, Awesome BDD: GitHubRepo](https://github.com/msz13/Awesome-BDD/blob/main/README.md)
 - [Gojko Adzic, Specification By example](https://gojko.net/books/specification-by-example/)
