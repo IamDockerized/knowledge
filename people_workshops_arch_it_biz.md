@@ -2,7 +2,7 @@
 
 ## People:
 
-- <b>Mariusz Gil</b> - workshops: Event Storming, podcast: Better Software Desing
+- <b>Mariusz Gil</b> - workshops: Event Storming, [Better Software Design Podcast](https://bettersoftwaredesign.pl/)
 
 - <b>Sebastian Buczyński</b> - Python, arch, blog: https://breadcrumbscollector.tech/, book: https://cleanarchitecture.io/
 
