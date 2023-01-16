@@ -10,7 +10,7 @@
 
 - <b>Tomasz Onyszko , Wojtek Ptak i Sebastian Gebski</b> - twitter and spotify: CTO morning coffee, Tomasz -> newsletter:https://lnkd.in/dTeCxEnQ  
 
-##Topics
+## Topics:
 
 #BDD
 - [Dan North, Introducing BDD]([https://link-url-here.org](https://dannorth.net/introducing-bdd/))
