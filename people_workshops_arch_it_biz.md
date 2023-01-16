@@ -16,11 +16,15 @@
 - [Person, activity](link)
 
 # BDD
-- [Dan North, Introducing BDD](https://dannorth.net/introducing-bdd/)
-- [John Ferguson Smart, BDD in Action](https://www.youtube.com/watch?v=hdBxLZ8f82Y)
-- [Michał Michaluk, Awesome BDD: GitHubRepo](https://github.com/msz13/Awesome-BDD/blob/main/README.md)
+- [Dan North Blog, Introducing BDD](https://dannorth.net/introducing-bdd/)
+- [John Ferguson Smart Youtube, BDD in Action](https://www.youtube.com/watch?v=hdBxLZ8f82Y)
+- [Michał Michaluk GitHubRepo, Awesome BDD](https://github.com/msz13/Awesome-BDD/blob/main/README.md)
 - [Gojko Adzic, Specification By example](https://gojko.net/books/specification-by-example/)
 - [Kamil Nicieja, Writing Great Specifications](https://www.manning.com/books/writing-great-specifications)
 
 # Event Storming
-- [Mariusz Gil, Awesome EventStorming: GitHubRepo](https://github.com/mariuszgil/awesome-eventstorming)
+- [Mariusz Gil GitHubRepo, Awesome EventStorming](https://github.com/mariuszgil/awesome-eventstorming)
+- [James Eastham Blog, Event Modelling by Example](https://jameseastham.co.uk/post/software-development/event-modelling-by-example/)
+
+# Architecture
+[Awesome Architecture Repo](https://awesome-architecture.com/)
