@@ -28,3 +28,6 @@
 
 # Architecture
 [Awesome Architecture Repo](https://awesome-architecture.com/)
+
+# Structure of the Team
+[Matthew Skelton Book, Team Topologies](https://awesome-architecture.com/)
