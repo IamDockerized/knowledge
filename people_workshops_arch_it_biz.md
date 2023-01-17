@@ -28,6 +28,7 @@
 
 # Architecture
 [Awesome Architecture Repo](https://awesome-architecture.com/)
+[Fundamentals of Software Architecture, Mark Richards and Neal Ford (Abstract)](https://yoan-thirion.gitbook.io/knowledge-base/software-architecture/fundamentals-of-software-architecture)
 
 # Structure of the Team
 [Matthew Skelton Book, Team Topologies](https://awesome-architecture.com/)
