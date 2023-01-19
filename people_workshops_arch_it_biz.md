@@ -13,7 +13,7 @@
 ## Topics:
 
 # DDD
-- [Person, activity](link)
+- [Vlad Khononov, Learning Domain Driven Design, Github](https://github.com/vladikk/learning-ddd)
 
 # BDD
 - [Dan North Blog, Introducing BDD](https://dannorth.net/introducing-bdd/)
