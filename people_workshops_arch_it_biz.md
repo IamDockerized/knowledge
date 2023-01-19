@@ -15,6 +15,10 @@
 # DDD
 - [Vlad Khononov, Learning Domain Driven Design, Github](https://github.com/vladikk/learning-ddd)
 
+# DDD GitHub
+- [Free DDD learning resources](https://github.com/ddd-crew/free-ddd-learning-resource)
+- [Learning DDD GitHub](https://github.com/cnb0/learning-ddd)
+
 # BDD
 - [Dan North Blog, Introducing BDD](https://dannorth.net/introducing-bdd/)
 - [John Ferguson Smart Youtube, BDD in Action](https://www.youtube.com/watch?v=hdBxLZ8f82Y)
