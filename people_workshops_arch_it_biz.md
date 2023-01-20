@@ -9,6 +9,7 @@
 - <b>Radek Maziarka</b> - arch and biz. workshops: https://radekmaziarka.pl/szkolenia-i-warsztaty
 
 - <b>Tomasz Onyszko , Wojtek Ptak i Sebastian Gebski</b> - twitter and spotify: CTO morning coffee, Tomasz -> newsletter:https://lnkd.in/dTeCxEnQ  
+- [Oskar Dudycz, Architecture Weekly, GitHub Repo](https://github.com/oskardudycz/ArchitectureWeekly)
 
 ## Topics:
 
