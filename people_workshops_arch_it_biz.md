@@ -12,9 +12,7 @@
 
 ## World:
 - Gergely Orosz [The pragmatic Engineer](https://blog.pragmaticengineer.com/)
-- Vaughn Vernon 
-> # Vaughn Vernon
->
+- Vaughn Vernon
 > [Books](https://kalele.io/books/)
 > [Interviewed by Darko Fabijan](https://semaphoreci.com/blog/vaughn-vernon-domain-driven-design)
 
