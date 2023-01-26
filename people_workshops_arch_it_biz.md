@@ -48,5 +48,5 @@
 # Event Sourcing
 [Oskar Dudycz](https://event-driven.io/)
 
-#Design Patterns
+# Design Patterns
 [Refactoring Guru Webpage](https://refactoring.guru/design-patterns/examples)
