@@ -54,3 +54,7 @@
 # Node.js
 * [Codevolution](https://www.youtube.com/watch?v=LAUi8pPlcUM&list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY)
 * [Procademy](https://www.youtube.com/watch?v=5eaBOxXABkU&list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS)
+
+# Typescript
+* [Essential TypeScript BookRepo](https://github.com/Apress/essential-typescript-4)
+* [TypeScript 4 Design Patterns and Best Practices BookRepo](https://github.com/PacktPublishing/TypeScript-4-Design-Patterns-and-Best-Practices)
