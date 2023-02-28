@@ -58,3 +58,4 @@
 # Typescript
 * [Essential TypeScript BookRepo](https://github.com/Apress/essential-typescript-4)
 * [TypeScript 4 Design Patterns and Best Practices BookRepo](https://github.com/PacktPublishing/TypeScript-4-Design-Patterns-and-Best-Practices)
+* [Michał Miszczyszyn, Typescript na poważnie](https://typescriptnapowaznie.pl/)
