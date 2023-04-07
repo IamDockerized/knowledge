@@ -31,6 +31,12 @@
 * [Michał Michaluk GitHubRepo, Awesome BDD](https://github.com/msz13/Awesome-BDD/blob/main/README.md)
 * [Gojko Adzic, Specification By example](https://gojko.net/books/specification-by-example/)
 * [Kamil Nicieja, Writing Great Specifications](https://www.manning.com/books/writing-great-specifications)
+* [Matt Wynne, Youtube: 10 things you didn't know about BDD](https://www.youtube.com/watch?v=tS8glup8vhQ)
+* [Nat Pryce, Presentations](https://speakerdeck.com/npryce/)
+* [Seb Rose, The BDD Books](https://bddbooks.com/)
+* [Gaspar Nagy, The BDD Books](https://bddbooks.com/)
+* [Kent Beck, Test Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=as_li_ss_tl?ie=UTF8&qid=1538560933&sr=8-1&keywords=test+driven+development+kent+beck&linkCode=sl1&tag=springguru-20&linkId=429f4a7a3b934726b3776795a9b2abb2&language=en_US)
+
 
 # Event Storming
 * [Mariusz Gil GitHubRepo, Awesome EventStorming](https://github.com/mariuszgil/awesome-eventstorming)
