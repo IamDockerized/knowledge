@@ -36,6 +36,7 @@
 * [Seb Rose, The BDD Books](https://bddbooks.com/)
 * [Gaspar Nagy, The BDD Books](https://bddbooks.com/)
 * [Kent Beck, Test Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=as_li_ss_tl?ie=UTF8&qid=1538560933&sr=8-1&keywords=test+driven+development+kent+beck&linkCode=sl1&tag=springguru-20&linkId=429f4a7a3b934726b3776795a9b2abb2&language=en_US)
+* [Liz Keogh, Blog](https://lizkeogh.com/behaviour-driven-development/)
 
 
 # Event Storming
